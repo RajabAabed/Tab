@@ -188,6 +188,9 @@ nav ul li a i {
   font-size: 14px;
   font-weight: 500;
 }
+.hero-text p span {
+  color: var(--third);
+}
 a.btn.btn-hire {
   background: var(--main);
   color: var(--white);
